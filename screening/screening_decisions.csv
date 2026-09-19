@@ -1,0 +1,141 @@
+# inclusion_criteria: ALL = record met all four inclusion criteria (I1, I2, I3, I4)
+# exclusion_reason: E1-E4 as defined in screening_criteria.md
+title,decision,inclusion_criteria,exclusion_reason
+3rd Latin American Workshop on Computational Neuroscience LAWCN 2021,exclude,,E2
+A 0.12 μVrms input noise 4.14 GΩ input impedance chopper and auto-zero instrumentation amplifier for EEG recording front ends,exclude,,E1
+A Chopper Instrumentation Amplifier for High-Precision EEG Acquisition,exclude,,E2
+A fully differential chopper-stabilized LNA for EEG acquisition applications,exclude,,E1
+A Low-Noise High-Gain EEG Analog Front-End for Microvolt Biopotentials,exclude,,E2
+A pilot safety and tolerability study of scanning ultrasound as a neuromodulation therapy in Alzheimer's disease,exclude,,E1
+A Precision Computational Framework for sLORETA Neurofeedback in Mild Cognitive Impairment: Integration of qEEG Biomarkers and Neuropsychological Metrics,exclude,,E1
+A Preoperative Electroencephalography Signature for Predicting Treatment Response to Deep Brain Stimulation in Obsessive-Compulsive Disorder,exclude,,E2
+A Simple Method for Synchronising Rich Kinematic Video Data with Local Field Potentials from DBS Systems,exclude,,E2
+A Systematic Review of Aperiodic Neural Activity in Clinical Investigations,exclude,,E2
+Advances in local field potential research in prolonged disorders of consciousness: a narrative review,exclude,,E2
+Anterior nucleus of thalamus deep brain stimulation for medication refractory epilepsy modulates theta and low-frequency gamma activity: a case study,exclude,,E3
+Aperiodic (1/f) Neural Activity Robustly Tracks Symptom Severity Changes in Treatment-Resistant Depression,include,ALL,
+Aperiodic components of local field potentials reflect inherent differences between cortical and subcortical activity,include,ALL,
+Aperiodic EEG and 7T MRSI evidence for maturation of E/I balance supporting the development of working memory through adolescence,exclude,,E1
+Aperiodic Neural Activity as an Index of Depression Severity,exclude,,E2
+Aperiodic neural activity is a biomarker for depression severity,exclude,,E1
+Aperiodic neural activity is a biomarker for depression severity. medRxiv [Preprint],exclude,,E2
+Aperiodic spectral component as a potential new marker and input signal for aDBS,exclude,,E2
+Aperiodic subthalamic activity predicts motor severity and stimulation response in Parkinson disease,include,ALL,
+Aperiodic subthalamic activity underlies sleep-wake modulation of beta power during conventional and adaptive deep brain stimulation in Parkinson's disease,exclude,,E2
+Beta Oscillations in the Sensory Thalamus During Severe Facial Neuropathic Pain Using Novel Sensing Deep Brain Stimulation,exclude,,E3
+Beta-Band and Aperiodic Activity Across New and Chronic Subthalamic Nucleus Deep Brain Stimulation in Parkinson's Disease,include,ALL,
+Beyond beta rhythms: Aperiodic broadband power reflects Parkinson's disease severity–a multicenter study,exclude,,E2
+Beyond beta rhythms: subthalamic aperiodic broadband power scales with Parkinson's disease severity-a cross-sectional multicentre study,include,ALL,
+Beyond beta: subthalamic gamma and broadband power reflect Parkinson's disease severity – A multi-center study,exclude,,E2
+Bifocal alpha-band tACS modulates temporal sampling in visual perception,exclude,,E1
+Brain Functional Correlates of Resting Hypnosis and Hypnotizability: A Review,exclude,,E2
+Brain–heart interaction in patients with Parkinson's disease treated by STN-DBS,exclude,,E2
+Broadband aperiodic components of local field potentials reflect inherent differences between cortical and subcortical activity,exclude,,E2
+Can we trust subthalamic local field potentials? Geometric and dynamical constraints on the interpretation of extracellular recordings,exclude,,E2
+Characterization of a Candidate Responsive Electrophysiological Biomarker in Sensing-Enabled Deep Brain Stimulation of the Ventral Capsule/Ventral Striatum for Obsessive-Compulsive Disorder,exclude,,E2
+Circadian changes in aperiodic activity are correlated with seizure reduction in patients with mesial temporal lobe epilepsy treated with responsive neurostimulation,exclude,,E1
+Closed-Loop Multi-Target DBS Leveraging Periodic and Aperiodic Neural Parameters in Parkinson's Disease,exclude,,E1
+Combining aperiodic 1/f slopes and brain simulation: An EEG/MEG proxy marker of excitation/inhibition imbalance in Alzheimer's disease,exclude,,E1
+Combining detrended cross-correlation analysis with Riemannian geometry-based classification for improved brain-computer interface performance,exclude,,E1
+Comparative Analysis of Classification of Parkinson Disease using Deep Learning Algorithms,exclude,,E1
+Comparison of oscillatory activity in substantia nigra pars reticulata between Parkinson's disease and dystonia,include,ALL,
+Cortico-striatal gamma oscillations are modulated by dopamine D3 receptors in dyskinetic rats,exclude,,E1
+Critical biomarkers for responsive deep brain stimulation and responsive focal cortex stimulation in epilepsy field,include,ALL,
+Cross subject emotion identification from multichannel EEG sub-bands using Tsallis entropy feature and KNN classifier,exclude,,E1
+Decomposing the effects of α-tACS on brain oscillations and aperiodic 1/f activity,exclude,,E2
+Deep brain stimulation modulates pallidal and cortical aperiodic activity during a motor task in children and young adults with dystonia,exclude,,E2
+Deep Brain Stimulation Modulates Pallidal Aperiodic and Periodic Beta Activity during Rest and Motor Task in Children and Young Adults with Dystonia,exclude,,E2
+Deep brain stimulation-induced local evoked potentials outperform spectral features in spatial and clinical STN mapping,include,ALL,
+Design and Evaluation of a Chopper-Stabilized Current-Feedback Instrumentation Amplifier for EEG and Biopotential Acquisition,exclude,,E2
+Device-embedded accelerometry complements neural signals for tracking parkinsonian motor states,exclude,,E2
+Device-embedded accelerometry complements neural signals for tracking parkinsonian motor states. bioRxiv [Preprint],exclude,,E2
+Dopamine depletion can be predicted by the aperiodic component of subthalamic local field potentials,exclude,,E4
+Dynamic excitation/inhibition balance preceding seizure onset and its link to functional and structural brain architecture,exclude,,E1
+EEG in Insomnia Disorder: Novel Findings and Future Directions,exclude,,E1
+Electrophysiological Correlates of Dynamic Cycling in Parkinson's Disease,include,ALL,
+Eltoprazine modulated gamma oscillations on ameliorating L-dopa-induced dyskinesia in rats,exclude,,E1
+Embracing Diversity: Sedative effects vary across drug chemistry and frequency domains,exclude,,E1
+Enhancing biomedical signals through genetic algorithm optimized Exponentiated transmuted weibull denoising techniques,exclude,,E1
+Esketamine disinhibits brain networks in depression: Evidence from oscillatory and aperiodic activity,exclude,,E1
+Establishing naturalistic brain stimulation targeting aperiodic EEG features: Transcranial endogenous current stimulation (tECS),exclude,,E1
+Evaluation of Acupuncture Efficacy in Modulating Brain Activity with Periodic-Aperiodic EEG Measurements,exclude,,E1
+Excessive Pallidal Beta-Band Activity & Functional Connectivity: A Novel Intracranial Biomarker of Status Dystonicus,exclude,,E2
+Excessive Pallidal Beta-band Activity and Functional Connectivity: A Novel Intracranial Biomarker of Status Dystonicus,exclude,,E2
+Excessive α-β Oscillations Mark Enlarged Motor Sign Severity and Parkinson's Disease Duration,include,ALL,
+Exercise-Induced Modulation of Subthalamic Activity and Intra-Nuclear Connectivity,include,ALL,
+Exploring the Role of Aperiodic and Periodic Spectral Activity in Guiding Deep Brain Stimulation Electrode Selection for Childhood Dystonia,exclude,,E2
+Fractal Similarity of Pain Brain Networks,exclude,,E1
+FV 11 Exploring a link between the spectral 1/f-exponent and connectivity in Parkinson's disease,exclude,,E2
+Gamma suppression correlates with thalamic stimulation therapeutic response in intractable epilepsy,include,ALL,
+GLOBUS PALLIDUS EXTERNUS (GPE) ALPHA BAND ACTIVITY DECREASES AFTER DEEP BRAIN STIMULATION IN CLINICALLY RESPONSIVE OBSESSIVE-COMPULSIVE DISORDER PATIENTS,exclude,,E2
+High frequency neck vibration changes the pallidal activity in cervical dystonia,exclude,,E2
+Human Neuronal Excitation/Inhibition Balance Explains and Predicts Neurostimulation Induced Learning Benefits,exclude,,E2
+Immediate and long-term electrophysiological biomarkers of antidepressant-like behavioral effects after subanesthetic ketamine and medial prefrontal cortex deep brain stimulation treatment,exclude,,E4
+Interictal thalamocortical network configuration is associated with susceptibility to seizure-related impaired consciousness in focal epilepsy,exclude,,E1
+Intracranial substrates of meditation-induced neuromodulation in the amygdala and hippocampus,exclude,,E1
+IS077 MACHINE LEARNING STN BIOMARKERS FOR PD PATIENT,exclude,,E2
+L-Dopa and STN-DBS modulate E/I balance and the neural encoding of rhythmic auditory stimulation in Parkinson's,exclude,,E2
+L-Dopa-induced changes in aperiodic bursts dynamics relate to individual clinical improvement in Parkinson's disease,include,ALL,
+Levodopa-dependent differences in the non-oscillatory activity of the subthalamic nucleus,exclude,,E2
+Levodopa-dependent differences in the non-oscillatory activity of the subthalamic nucleus. Annu Int Conf IEEE Eng Med Biol Soc,exclude,,E2
+LFP spectral features associated with therapy complications in typical and early onset Parkinson's Disease,exclude,,E2
+Local Field Aperiodic Spectral Power Modulated by Deep Brain Stimulation in Parkinson's Disease,include,ALL,
+Long-term Analysis of Subthalamic Local Field Potentials (LFP) in Parkinson's Disease: Insights into Circadian Rhythms Medication and Personalized Treatment Effects,exclude,,E2
+Long-term consistency of aperiodic and periodic physiomarkers in subthalamic local field potentials in Parkinson's disease,include,ALL,
+Long-Term Recording of Subthalamic Aperiodic Activities and Beta Bursts in Parkinson's Disease,include,ALL,
+Magnetoencephalography-based prediction of longitudinal symptom progression in Parkinson's disease,exclude,,E1
+Mapping Healthy and Epileptic States in the Centromedian Nucleus Region,include,ALL,
+Modeling the pathophysiology of Parkinson's disease in patient-specific neurons,exclude,,E1
+Motor outcomes and network effects of adaptive deep brain stimulation programming in Parkinson's disease,exclude,,E2
+Movement-related aperiodic activity of subthalamic nucleus in Parkinson's disease,exclude,,E2
+Multifractal Characteristics of Pallidal Single Unit Activity in Patients with Dystonia,include,ALL,
+N°254 – Periodic and aperiodic properties of globus pallidus: Comparison between dystonia and Parkinson's disease,exclude,,E2
+Neurophysiologic Biomarkers of Invasive Neuromodulation Therapy for Epilepsy,exclude,,E2
+Neurophysiological correlates of ketamine-induced dissociative state in bipolar disorder: insights from real-world clinical settings,exclude,,E1
+Neurophysiological Effects of Transcranial Pulse Stimulation in Alzheimer's Disease: An EEG Study,exclude,,E1
+Neurophysiological response and connectivity changes in the STN with a month-long exercise intervention,exclude,,E2
+Non-linear input-output relationships in the subthalamic nucleus of Parkinson's patients,exclude,,E2
+NONLINEAR MULTIFRACTAL PARAMETERS OF LOCAL FIELD POTENTIALS IN BASAL GANGLIA REFLECT CLINICAL FEATURES IN LATE AND EARLY ONSET PARKINSON'S DISEASE,exclude,,E2
+Nonperiodic stimulation for the treatment of refractory epilepsy: Applications mechanisms and novel insights,exclude,,E2
+Normative characterization of age-related periodic and aperiodic activity in resting-state clinical EEG recordings,exclude,,E2
+NOVEL SENSING DEEP BRAIN STIMULATION IN NEUROPATHIC FACIAL PAIN: POTENTIAL PERIODIC AND APERIODIC BIOMARKERS OF SEVERE PAIN IN THE SENSORY THALAMUS,exclude,,E2
+Novel techniques for improving NNetEn entropy calculation for short and noisy time series,exclude,,E1
+On Multiscaling of Parkinsonian Rest Tremor Signals and Their Classification,exclude,,E2
+OSCILLATORY SUBTHALAMIC BETA ACTIVITY CORRELATES WITH CLINICAL MOTOR PROGRESSION IN PARKINSON'S DISEASE,exclude,,E2
+Oscillatory vs. non-oscillatory subthalamic beta activity in Parkinson's disease,include,ALL,
+P225. Intracranial EEG 1/f Slope Predicts Changes in Instantaneous Depression Severity,exclude,,E1
+Pallidal 1/f asymmetry in patients with cervical dystonia,include,ALL,
+Pallidal and Cortical Oscillations in Freely Moving Patients With Dystonia,include,ALL,
+Pallidal theta and beta oscillations are key to the co-existence of hyper- and hypokinesia in Huntington's Disease,exclude,,E2
+Periodic and Aperiodic Components of Subthalamic Nucleus Activity Reflect Different Aspects of Motor Impairment in Parkinson's Disease,include,ALL,
+Personalized Theta Transcranial Alternating Current Stimulation and Gamma Transcranial Alternating Current Stimulation Bring Differential Neuromodulatory Effects on the Resting Electroencephalogram,exclude,,E1
+Post Deep Brain Stimulation Time Course of Aperiodic Activity in Childhood and Young Adult Dystonia,include,ALL,
+Power signatures of habenular neuronal signals in patients with bipolar or unipolar depressive disorders correlate with their disease severity,include,ALL,
+Pre-stimulation thalamic biomarkers determine effects of hippocampal repeated single electrical pulse stimulation,exclude,,E2
+Predicting the optimal deep brain stimulation contact-level in Parkinson's disease: Insights from local field potentials recorded by the implanted neurostimulator,exclude,,E2
+Profiling the low-beta characteristics of the subthalamic nucleus in early- and late-onset Parkinson's disease,include,ALL,
+Quantifying fractal and oscillatory components in neural signals for biomarker development,exclude,,E2
+Rapid Profiling of EEG Responses to Non-Invasive Brain Stimulation in Parkinson's Disease: A Biomarker-Driven Screening Framework,exclude,,E1
+Sensing with deep brain stimulation device in epilepsy: Aperiodic changes in thalamic local field potential during seizures,include,ALL,
+Shared Spectral Parameters Between EEG and Basal Ganglia LFP Distinguish Sleep-Specific Oscillations in Parkinson's Disease,include,ALL,
+SLEEP STAGE CLASSIFICATION AND APERIODIC ACTIVITY OF STN-LFP AFTER LONG-TERM NEUROSTIMULATION IN PARKINSON'S DISEASE,exclude,,E2
+Spontaneous- and Perturbation-Based Cortical Excitability Markers of Plasma pTau181 Concentrations in Healthy Middle-aged Adults,exclude,,E2
+Status Dystonicus is a Distinct State Characterized by Pallidal Beta-Band Activity,exclude,,E2
+Study of autocorrelations and uncertainties applied to patients with Parkinson's disease,exclude,,E1
+Subthalamic LFP Spectral Decay Captures Movement-Related Differences Between Parkinson's Disease Phenotypes,exclude,,E2
+Subthalamic nucleus dynamics track microlesion effect in Parkinson's disease,include,ALL,
+Subthalamic nucleus input-output dynamics are correlated with Parkinson's burden and treatment efficacy,include,ALL,
+Subthalamic Nucleus Stimulation-Induced Local Field Potential Changes in Dystonia,include,ALL,
+Temporal Dynamics of Microlesion Effects in Subthalamic Local Field Potentials,include,ALL,
+The aperiodic component of cortical Local Field Potentials is affected in Parkinson's Disease and essential tremor,exclude,,E2
+The aperiodic exponent of subthalamic field potentials reflects excitation/inhibition balance in Parkinsonism,include,ALL,
+The aperiodic exponent of subthalamic field potentials reflects excitation/inhibition balance in Parkinsonism: A cross-species study in vivo,exclude,,E4
+The association between resting state aperiodic activity and Research Domain Criteria Social Processes in young neurotypical adults,exclude,,E2
+The effects of transcranial random noise stimulation on excitation/inhibition balance in ADHD,exclude,,E1
+The influence of aperiodic components on the analysis results of subthalamic nucleus local field potential in Parkinson's disease and its physiological significance,include,ALL,
+The role of Excitation/Inhibition ratio (E/I) in cognitive learning and using neurostimulation to alter E/I and improve cognition,exclude,,E2
+The Virtual Parkinsonian Patient,exclude,,E1
+The Virtual Parkinsonian Patient: the effects of L-dopa and Deep brain Stimulation on whole-brain dynamics,exclude,,E2
+Therapeutic deep brain stimulation targeting BNST-NAc circuit driven large-scale brain networks in treatment-resistant depression,include,ALL,
+Theta-alpha STN oscillations are associated with motor signs of Parkinson's disease,exclude,,E2
+Using Magnetoencephalography to Advance the Science of Parkinson Disease: A Systematic Review,exclude,,E2
