@@ -154,9 +154,11 @@ OR "neuronal recordings")
 | IEEE Xplore | 4                 |
 | **Total**   | **243**           |
 
-Records after deduplication: 138  
-Records excluded at title/abstract screening: 105  
-Records included: 34  
-Full texts assessed for eligibility: 34  
-Full texts excluded: 0  
-Studies included: 34
+Records after deduplication: 138
+Records excluded at title/abstract screening: 104
+Records sought for retrieval: 34
+Records not retrieved: 1 (Zhang et al. 2024, doi: 10.3760/cma.j.cn112050-20231009-00108 - full text inaccessible; Chinese-language journal)
+Records assessed for eligibility: 32
+Records excluded after full-text assessment: 1 (Gamma suppression correlates with thalamic stimulation therapeutic response in intractable epilepsy - E1)
+Reports included: 32
+Studies included: 31
