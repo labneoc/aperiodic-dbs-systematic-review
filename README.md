@@ -2,7 +2,7 @@
 
 Supplementary materials for:
 
-> Pereira LSM, Tavares ALS, Fernandes AMR, Gomes BD.
+> Mangrich LS, Tavares ALS, Neto APM, Fernandes AMR, Gomes BD.
 > **Aperiodic neural dynamics as a transdiagnostic biomarker in Deep Brain
 > Stimulation: a systematic review of spectral parameterization.**
 
@@ -15,16 +15,19 @@ Supplementary materials for:
 | `search/` | Search strings, execution dates, and database-specific notes |
 | `screening/` | Eligibility criteria, screening decisions (138 records), and PRISMA counts |
 | `extraction/` | Data extraction spreadsheet, extraction protocol, and adapted NOS criteria |
-| `figures/` | PRISMA 2020 flow diagram |
-| `supplementary/` | PRISMA 2020 checklist and supplementary tables |
+| `analysis/` | Fitting-window simulation: code, outputs, and figure |
+| `figures/` | PRISMA 2020 flow diagram (vector) |
+| `supplementary/` | PRISMA 2020 checklist |
 
 ---
 
 ## Corpus
 
-- **243** records identified across 4 databases (PubMed, Embase, Scopus, IEEE Xplore)
-- **138** records screened after deduplication
-- **34** reports included (33 unique studies; IDs 09 and 11 share the same patient cohort)
+- **243** records identified across 4 databases (PubMed 52, Embase 128, Scopus 59, IEEE Xplore 4)
+- **138** records screened after deduplication and date-eligibility removal
+- **34** reports sought for retrieval; 1 not retrieved; 33 assessed in full; 1 excluded
+- **32** reports included, describing **31** unique studies
+  (IDs 09 and 11 report the same 9-patient cohort and are counted as one study)
 
 ---
 
@@ -32,10 +35,21 @@ Supplementary materials for:
 
 | Author | Affiliation | ORCID |
 |--------|-------------|-------|
-| Letícia S. M. Pereira | UNIVALI, Itajaí (SC), Brazil | 0009-0004-2129-9192 |
-| Ana L. S. Tavares | UFPA, Belém (PA), Brazil | 0009-0006-1180-2967 |
-| Anita M. R. Fernandes | UNIVALI, Itajaí (SC), Brazil | 0000-0002-2986-5353 |
+| Letícia S. Mangrich | UNIVALI, Itajaí (SC), Brazil | 0009-0004-2129-9192 |
+| Ana Luiza S. Tavares | UFPA, Belém (PA), Brazil | 0009-0006-1180-2967 |
+| Artur Pedro M. Neto | UFPA, Belém (PA), Brazil | 0009-0006-7127-2988 |
+| Anita Maria R. Fernandes | UNIVALI, Itajaí (SC), Brazil | 0000-0002-2986-5353 |
 | Bruno D. Gomes | UFPA, Belém (PA), Brazil | 0000-0002-3646-7847 |
+
+Corresponding author: Bruno D. Gomes (brunodgomes@ufpa.br)
+
+---
+
+## Registration
+
+Registered in PROSPERO: [CRD420261501429](https://www.crd.york.ac.uk/PROSPERO/view/CRD420261501429).
+Registration followed the database searches and is therefore not prospective with
+respect to them, as stated in the manuscript.
 
 ---
 
